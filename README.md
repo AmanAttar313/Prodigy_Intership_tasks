@@ -1,5 +1,5 @@
 # Prodigy_Intership_tasks
-# 🌟 Web Development Projects Repository  
+# 🌟 Web Development Projects  
 
 This repository contains five web development projects , showcasing  responsive designs, JavaScript functionality, and interactive user interfaces. Each project is fully functional, well-structured, and designed for enhanced user experience.
 
